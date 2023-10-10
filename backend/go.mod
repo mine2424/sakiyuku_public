@@ -10,8 +10,8 @@ require (
 	github.com/swaggo/files v1.0.0
 	github.com/swaggo/gin-swagger v1.5.3
 	golang.org/x/crypto v0.7.0
-	gorm.io/driver/mysql v1.4.7
-	gorm.io/gorm v1.24.6
+	gorm.io/driver/mysql v1.5.2
+	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
 require (
